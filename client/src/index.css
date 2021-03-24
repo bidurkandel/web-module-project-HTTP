@@ -1,7 +1,7 @@
 
 body {
-	color: #566787;
-	background: #f5f5f5;
+	color: #287d83;
+	background: #e7baba;
 	font-family: 'Varela Round', sans-serif;
   font-size: 13px;
 }
@@ -12,7 +12,7 @@ body {
 }
 
 .footer {
-  background: white;
+  background: rgba(168, 28, 168, 0.329);
   padding: 1em;
 }
 
@@ -22,17 +22,17 @@ body {
 }
 
 .view .material-icons {
-	color:#435d7d;
+	color:#af3ea0;
 	font-size: 40px !important;
 }
 
 .view .material-icons:hover {
-	color:black;
+	color:rgba(167, 32, 115, 0.877);
 }
 
 .table-title {        
 	padding-bottom: 15px;
-	background: lightgrey;
+	background: rgba(37, 91, 100, 0.185);
 	color:#566787;
 	padding: 16px 30px;
     min-width: 100%;
@@ -141,13 +141,13 @@ table.table .avatar {
 }
 
 #deleteEmployeeModal .modal-dialog {
-	box-shadow: #00000099 3px 3px 17px;
+	box-shadow: #818d1499 3px 3px 17px;
 }
 
 .savedContainer {
 	display: flex;
 	flex-direction: column;
-	background: #dedede;
+	background: #59c5d3;
     padding: 2em;
 	margin: 0;
 	width:250px;

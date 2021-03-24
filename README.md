@@ -103,3 +103,4 @@ CRUD applications are the foundation of most web applications. Being able to man
 
 #### DELETE `http://localhost:5000/api/movies/:id`
 - Removed movie with the passed in id. Returns the deleted movie's id.
+
